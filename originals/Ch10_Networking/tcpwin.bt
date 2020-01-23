@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * tcpwin - Trace TCP send congestion window parameters.
  *

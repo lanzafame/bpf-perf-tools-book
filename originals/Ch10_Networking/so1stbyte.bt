@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * so1stbyte - Summarize IP socket first byte latency.
  *

@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * mysqld_clat - Show MySQL command latency as a histogram.
  *

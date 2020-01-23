@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * qdisc-cbs - Show qdisc CBS queue latency.
  *

@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * ieee80211scan - Trace IEEE 802.11 WiFi scanning.
  *

@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * mysqld_qslower-uprobes - Show MySQL queries slower than a threshold.
  *

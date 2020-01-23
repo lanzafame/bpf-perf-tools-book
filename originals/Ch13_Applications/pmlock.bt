@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * pmlock - Show pthread mutex lock times and user stacks.
  *

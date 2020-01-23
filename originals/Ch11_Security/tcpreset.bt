@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * tcpreset - Show TCP send resets: port scan detection.
  *

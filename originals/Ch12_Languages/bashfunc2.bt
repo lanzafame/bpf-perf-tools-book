@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * bashfunc2 - Trace recompiled bash function calls.
  *

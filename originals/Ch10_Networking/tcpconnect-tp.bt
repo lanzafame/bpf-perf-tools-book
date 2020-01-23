@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * tcpconnect-tp - Trace TCP active connections (connect()) using tracepoints.
  *

@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * brkstack - Count brk(2) syscalls with user stacks.
  *

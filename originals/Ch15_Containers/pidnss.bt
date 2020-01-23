@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * pidnss - Count PID namespace switches: containers sharing a CPU.
  *

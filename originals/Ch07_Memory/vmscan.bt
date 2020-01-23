@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * vmscan - Measure VM scanner shrink and reclaim times.
  *

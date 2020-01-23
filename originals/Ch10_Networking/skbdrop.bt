@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * skbdrop - Trace sk_buff drops with kernel stack traces.
  *

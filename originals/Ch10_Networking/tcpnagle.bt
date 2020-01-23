@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * tcpnagle - Trace TCP nagle usage and transmit delays.
  *

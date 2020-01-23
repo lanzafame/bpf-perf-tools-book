@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * kvmexits - Show KVM guest exit time by reason, from the host.
  *

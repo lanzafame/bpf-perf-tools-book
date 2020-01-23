@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * filetype2 - Show VFS reads/writes by file type and process.
  *

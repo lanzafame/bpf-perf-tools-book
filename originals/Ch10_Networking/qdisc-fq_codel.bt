@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * qdisc-fq_codel - Show qdisc FQ CoDel queue latency.
  *

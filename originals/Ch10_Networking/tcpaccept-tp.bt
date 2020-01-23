@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * tcpaccept-tp - Trace TCP passive connections (accept()) using tracepoints.
  *

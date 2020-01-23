@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * pmheld - Show pthread mutex held times and user stacks.
  *

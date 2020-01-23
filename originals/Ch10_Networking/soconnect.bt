@@ -1,4 +1,4 @@
-#!/usr/local/bin/bpftrace
+#!/usr/bin/env bpftrace
 /*
  * soconnect - Trace socket IP-protocol connections with details.
  *
